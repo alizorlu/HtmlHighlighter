@@ -1,0 +1,14 @@
+C:\Users\ali.zorlu\source\repos\MsuiteNetProxyDemo\bin\Debug\MsuiteNetProxyDemo.exe.config
+C:\Users\ali.zorlu\source\repos\MsuiteNetProxyDemo\bin\Debug\MsuiteNetProxyDemo.exe
+C:\Users\ali.zorlu\source\repos\MsuiteNetProxyDemo\bin\Debug\MsuiteNetProxyDemo.pdb
+C:\Users\ali.zorlu\source\repos\MsuiteNetProxyDemo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ali.zorlu\source\repos\MsuiteNetProxyDemo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ali.zorlu\source\repos\MsuiteNetProxyDemo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ali.zorlu\source\repos\MsuiteNetProxyDemo\obj\Debug\MsuiteNetProxyDemo.csprojAssemblyReference.cache
+C:\Users\ali.zorlu\source\repos\MsuiteNetProxyDemo\obj\Debug\MsuiteNetProxyDemo.Form1.resources
+C:\Users\ali.zorlu\source\repos\MsuiteNetProxyDemo\obj\Debug\MsuiteNetProxyDemo.Properties.Resources.resources
+C:\Users\ali.zorlu\source\repos\MsuiteNetProxyDemo\obj\Debug\MsuiteNetProxyDemo.csproj.GenerateResource.cache
+C:\Users\ali.zorlu\source\repos\MsuiteNetProxyDemo\obj\Debug\MsuiteNetProxyDemo.csproj.CoreCompileInputs.cache
+C:\Users\ali.zorlu\source\repos\MsuiteNetProxyDemo\obj\Debug\MsuiteNetProxyDemo.csproj.CopyComplete
+C:\Users\ali.zorlu\source\repos\MsuiteNetProxyDemo\obj\Debug\MsuiteNetProxyDemo.exe
+C:\Users\ali.zorlu\source\repos\MsuiteNetProxyDemo\obj\Debug\MsuiteNetProxyDemo.pdb
